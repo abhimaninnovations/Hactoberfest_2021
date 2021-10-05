@@ -3,7 +3,7 @@
 
 
 
-# Hactoberfest_2020
+# Hactoberfest_2021
 An Open repo for hacktoberfest'21.
 
 ## What you have to do?
